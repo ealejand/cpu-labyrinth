@@ -2,7 +2,7 @@
 ;-		Emil Alejandria
 ;-		Megan Durante
 ;- For:
-;-		CPE 233
+;-
 ;-		Fall 2013
 
 ;- Labyrinth 1.00	Patch Notes
@@ -31,15 +31,6 @@
 
 ;- Labyrinth 1.02a	Patch Notes
 ;-	Added a death screen
-
-;- Future changes
-;-	Destructible blocks
-;-	Bombs
-;-	Mobs
-;---- ^ Good luck
-;-	Health
-;-	Timer
-;---- ^ Stop trying
 
 ;--------------------------------------------------------------------
 ; I/O Port Constants
